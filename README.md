@@ -2,6 +2,8 @@ In this project, let's build an **Even Odd App** by applying the concepts we hav
 
 ### Refer to the image below:
 
+Published Successfully!. Check at https://aliEvenOddapp.ccbp.tech
+
 <br/>
 <div style="text-align: center;">
 <img src="https://assets.ccbp.in/frontend/content/react-js/even-odd-app-output.gif" alt="even-odd-app-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
